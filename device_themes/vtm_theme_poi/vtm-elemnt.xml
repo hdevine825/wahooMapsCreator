@@ -846,6 +846,9 @@
          <m v="drinking_water">
             <symbol src="icons/drinking_water.svg" symbol-percent="150"/>
          </m>
+         <m v="toilets">
+            <symbol src="icons/toilet.svg" symbol-percent="150"/>
+         </m>
       </m>
 
       <m k="shop">

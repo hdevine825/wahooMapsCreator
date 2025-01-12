@@ -8,6 +8,7 @@
     <osm-tag key="amenity" value="cafe" zoom-appear="14" />
     <osm-tag key="amenity" value="drinking_water" zoom-appear="14" />
     <osm-tag key="amenity" value="shelter" zoom-appear="10" />
+    <osm-tag key="amenity" value="toilets" zoom-appear="10" />
     <osm-tag key="shop" value="bakery" zoom-appear="14" />
     <osm-tag key="shop" value="bicycle" zoom-appear="14" />
 
@@ -22,6 +23,7 @@
     <osm-tag key="amenity" label-position="true" value="cafe" zoom-appear="14" />
     <osm-tag key="amenity" label-position="true" value="drinking_water" zoom-appear="14" />
     <osm-tag key="amenity" value="shelter" zoom-appear="10" />
+    <osm-tag key="amenity" value="toilets" zoom-appear="10" />
     <osm-tag key="shop" label-position="true" value="bakery" zoom-appear="14" />
     <osm-tag key="shop" label-position="true" value="bicycle" zoom-appear="14" />
 
